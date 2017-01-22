@@ -1,4 +1,4 @@
-package homework;
+package com.dashaa.app.homework;
 
 import java.util.Scanner;
 public class homework {

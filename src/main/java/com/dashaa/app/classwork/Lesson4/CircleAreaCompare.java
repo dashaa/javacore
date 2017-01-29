@@ -19,8 +19,8 @@ public class CircleAreaCompare {
                         System.out.println("please input second radius");
                 double radius2 = scanner.nextDouble();
 
-                        double area1 = PI * Math.pow(radius1, 2);
-                double area2 = PI * Math.pow(radius2, 2);
+                        double area1 = PI * radius1 * radius1;
+                double area2 = PI * radius2 * radius2;
 
                         if (area1 > area2)
                         System.out.println("Area1 is bigger");

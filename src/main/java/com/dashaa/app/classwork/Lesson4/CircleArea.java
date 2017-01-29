@@ -13,7 +13,7 @@ public class CircleArea {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter radius: " );
         double radius = scanner.nextDouble();
-        double circleArea = PI * Math.pow(radius, 2);
+        double circleArea = PI * radius * radius;
         System.out.println("Area is " + circleArea);
     }
 }

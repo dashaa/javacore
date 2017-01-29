@@ -1,4 +1,4 @@
-package com.dashaa.app.homework;
+package com.dashaa.app.classwork.Lesson2;
 
 
 public class WideningCasting {

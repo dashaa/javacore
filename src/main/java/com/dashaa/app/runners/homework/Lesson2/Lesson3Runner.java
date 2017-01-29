@@ -1,5 +1,5 @@
-package com.dashaa.app.utils.runners;
-import com.dashaa.app.utils.convertors.PrimitiveConvertor;
+package com.dashaa.app.runners.homework.Lesson2;
+import com.dashaa.app.homework.Lesson2.PrimitiveConvertor;
 /**
  * Created by Кики on 22.01.2017.
  */

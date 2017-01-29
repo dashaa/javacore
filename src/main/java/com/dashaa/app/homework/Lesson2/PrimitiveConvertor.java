@@ -19,5 +19,7 @@ public class PrimitiveConvertor {
         intVariable = (int) charVariable;
         System.out.println("Input char value is: " + charVariable + ". Output int value is: " + intVariable);
     }
-    }
+
+
+}
 

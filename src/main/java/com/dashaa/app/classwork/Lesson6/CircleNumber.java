@@ -2,7 +2,7 @@ package com.dashaa.app.classwork.Lesson6;
 
 
 public class CircleNumber {
-    public static void main(String[] args) {
+    public static void printNumberAllCicleTypes() {
         int i = 0;
         while (i <= 10)
         {

@@ -4,9 +4,7 @@ import java.util.Scanner;
 
 import static java.lang.Math.PI;
 
-/**
- * Created by Кики on 29.01.2017.
- */
+
 public class CircleArea {
 
     public static void calculate (){
